@@ -192,6 +192,7 @@ API | Description | Auth | HTTPS | CORS |
 | [AlienVault Open Threat Exchange (OTX)](https://otx.alienvault.com/api) | IP/domain/URL reputation | `apiKey` | Yes | Unknown |
 | [CAPEsandbox](https://capev2.readthedocs.io/en/latest/usage/api.html) | Malware execution and analysis | `apiKey` | Yes | Unknown |
 | [Google Safe Browsing](https://developers.google.com/safe-browsing/) | Google Link/Domain Flagging | `apiKey` | Yes | Unknown |
+| [IPWhois.net Blacklist](https://ipwhois.net/blacklist/docs) | Community IP blacklist to check and report abusive IP addresses | No | Yes | Unknown |
 | [MalDatabase](https://maldatabase.com/api-doc.html) | Provide malware datasets and threat intelligence feeds | `apiKey` | Yes | Unknown |
 | [MalShare](https://malshare.com/doc.php) | Malware Archive / file sourcing | `apiKey` | Yes | No |
 | [MalwareBazaar](https://bazaar.abuse.ch/api/) | Collect and share malware samples | `apiKey` | Yes | Unknown |
@@ -317,6 +318,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Google Analytics](https://developers.google.com/analytics/) | Collect, configure and analyze your data to reach the right audience | `OAuth` | Yes | Unknown |
 | [Instatus](https://instatus.com/help/api) | Post to and update maintenance and incidents on your status page through an HTTP REST API | `apiKey` | Yes | Unknown |
 | [Invovate](https://invovate.com/api) | Generate PDF, JSON & UBL invoices in 11 languages from one JSON POST | `apiKey` | Yes | No |
+| [Legal Sandbox Georgia](https://legal.ge/api/openapi.json) | Find verified legal specialists in Georgia from natural-language queries | No | Yes | Yes |
 | [Mailchimp](https://mailchimp.com/developer/) | Send marketing campaigns and transactional mails | `apiKey` | Yes | Unknown |
 | [mailjet](https://www.mailjet.com/) | Marketing email can be sent and mail templates made in MJML or HTML can be sent using API | `apiKey` | Yes | Unknown |
 | [markerapi](https://markerapi.com) | Trademark Search | No | No | Unknown |
@@ -670,6 +672,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Tyk](https://tyk.io/open-source/) | Api and service management platform | `apiKey` | Yes | Yes |
 | [Utilorax](https://utilorax.com/api) | 203 JSON endpoints: hashing, encoding, unit conversion, text, dates and file conversion | `apiKey` | Yes | Yes |
 | [Wandbox](https://github.com/melpon/wandbox/blob/master/kennel2/API.rst) | Code compiler supporting 35+ languages mentioned at wandbox.org | No | Yes | Unknown |
+| [Web Metadata & Contact Extractor](https://rapidapi.com/josejuanjocoding/api/web-metadata-and-contact-extractor) | Extract SEO metadata, contact emails, social links, and tech stack (<200ms) | `apiKey` | Yes | Yes |
 | [Webclaw](https://webclaw.io/docs/api) | Web content extraction for LLMs with scrape, crawl, search, and summarize | `apiKey` | Yes | Yes |
 | [WebScraping.AI](https://webscraping.ai/) | Web Scraping API with built-in proxies and JS rendering | `apiKey` | Yes | Yes |
 | [ZenRows](https://www.zenrows.com/) | Web Scraping API that bypasses anti-bot solutions while offering JS rendering, and rotating proxies | `apiKey` | Yes | Unknown |
@@ -749,6 +752,7 @@ API | Description | Auth | HTTPS | CORS |
 |:---|:---|:---|:---|:---|
 | [mailboxlayer](https://mailboxlayer.com?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers) | Email address validation | `apiKey` | Yes | Unknown |
 | [AGPC Domain Check](https://guild.tradeuniquecapital.com/api) | Check a domain's SPF, DKIM, DMARC and MX with a graded shareable report | No | Yes | Yes |
+| [Atomic Mail](https://atomic-mail.github.io/atomic-mail-agentic/) | Email for AI agents: programmatic inbox creation and send/receive over JMAP | `apiKey` | Yes | Unknown |
 | [Cloudmersive Validate](https://cloudmersive.com/validate-api) | Validate email addresses, phone numbers, VAT numbers and domain names | `apiKey` | Yes | Yes |
 | [Disify](https://www.disify.com/) | Validate and detect disposable and temporary email addresses | No | Yes | Yes |
 | [DropMail](https://dropmail.me/api/#live-demo) | GraphQL API for creating and managing ephemeral e-mail inboxes | No | Yes | Unknown |
@@ -869,6 +873,7 @@ API | Description | Auth | HTTPS | CORS |
 | [MercadoPago](https://www.mercadopago.com.br/developers/es/reference) | Mercado Pago API reference - all the information you need to develop your integrations | `apiKey` | Yes | Unknown | |
 | [Mono](https://mono.co/) | Connect with users’ bank accounts and access transaction data in Africa | `apiKey` | Yes | Unknown | |
 | [Moov](https://docs.moov.io/api/) | The Moov API makes it simple for platforms to send, receive, and store money | `apiKey` | Yes | Unknown | |
+| [NORTH7 Agent](https://north7.ai/v1/docs) | Trading signals, market analysis and geopolitical intelligence | `apiKey` | Yes | Yes |
 | [Nordigen](https://nordigen.com/en/account_information_documenation/integration/quickstart_guide/) | Connect to bank accounts using official bank APIs and get raw transaction data | `apiKey` | Yes | Unknown | |
 | [OpenFIGI](https://www.openfigi.com/api) | Equity, index, futures, options symbology from Bloomberg LP | `apiKey` | Yes | Yes | |
 | [Plaid](https://www.plaid.com/docs) | Connect with user's bank accounts and access transaction data | `apiKey` | Yes | Unknown |
@@ -986,6 +991,7 @@ API | Description | Auth | HTTPS | CORS |
 | [JokeAPI](https://sv443.net/jokeapi/v2/) | Programming, Miscellaneous and Dark Jokes | No | Yes | Yes |
 | [Jokes One](https://jokes.one/api/joke/) | Joke of the day and large category of jokes accessible via REST API | `apiKey` | Yes | Yes |
 | [Jservice](http://jservice.io) | Jeopardy Question Database | No | No | Unknown |
+| [KrakenKeys](https://krakenkeys.com/api-docs) | Steam game key price comparison across 20+ stores, deals, and price history | `apiKey` | Yes | No |
 | [Lichess](https://lichess.org/api) | Access to all data of users, games, puzzles and etc on Lichess | `OAuth` | Yes | Unknown |
 | [Magic The Gathering](http://magicthegathering.io/) | Magic The Gathering Game Information | No | No | Unknown |
 | [Mario Kart Tour](https://mario-kart-tour-api.herokuapp.com/) | API for Drivers, Karts, Gliders and Courses | `OAuth` | Yes | Unknown |
@@ -1321,6 +1327,7 @@ API | Description | Auth | HTTPS | CORS |
 |:---|:---|:---|:---|:---|
 | [AI Economics Tools](https://piszczek.pl/tools/api) | Token cost, LLM energy, agent-hour and Proof-Adjusted Autonomy calculators by Michał Piszczek | No | Yes | Yes |
 | [AI For Thai](https://aiforthai.in.th/index.php) | Free Various Thai AI API | `apiKey` | Yes | Yes |
+| [BRAINIALL](https://github.com/fasuizu-br/brainiall-transcription-skill) | PT-BR and Spanish audio transcription with diarization and SRT/VTT | `apiKey` | Yes | Yes |
 | [Clarifai](https://docs.clarifai.com/api-guide/api-overview) | Computer Vision | `OAuth` | Yes | Unknown |
 | [Cloudmersive](https://www.cloudmersive.com/image-recognition-and-processing-api) | Image captioning, face recognition, NSFW classification | `apiKey` | Yes | Yes |
 | [DeepAI](https://deepai.org/) | Provides AI-powered APIs for text generation, image processing, and more | `apiKey` | Yes | Yes |
@@ -1929,6 +1936,7 @@ API | Description | Auth | HTTPS | CORS |
 | [BIC-Boxtech](https://docs.bic-boxtech.org/) | Container technical detail for the global container fleet | `OAuth` | Yes | Unknown |
 | [BlaBlaCar](https://dev.blablacar.com) | Search car sharing trips | `apiKey` | Yes | Unknown |
 | [Boston MBTA Transit](https://www.mbta.com/developers/v3-api) | Stations and predicted arrivals for MBTA | `apiKey` | Yes | Unknown |
+| [Can I enter](https://canienter.com) | Visa and entry requirements for 199 passports, cited to official sources, verified daily | No | Yes | Yes |
 | [Community Transit](https://github.com/transitland/transitland-datastore/blob/master/README.md#api-endpoints) | Transitland API | No | Yes | Unknown |
 | [Compare Flight Prices](https://rapidapi.com/obryan-software-obryan-software-default/api/compare-flight-prices/) | API for comparing flight prices across platforms | `apiKey` | Yes | Unknown |
 | [CruiseFeed](https://cruisefeed.io) | Normalized cruise line inventory: ships, sailings, itineraries, ports and lead-in fares | `apiKey` | Yes | Unknown |
