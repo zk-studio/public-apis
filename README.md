@@ -642,6 +642,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Google Firebase](https://firebase.google.com/docs) | Google's mobile application development platform that helps build, improve, and grow app | `apiKey` | Yes | Yes |
 | [Google Fonts](https://developers.google.com/fonts/docs/developer_api) | Metadata for all families served by Google Fonts | `apiKey` | Yes | Unknown |
 | [Google Keep](https://developers.google.com/keep/api/reference/rest) | API to read, write, and format Google Keep notes | `OAuth` | Yes | Unknown |
+| [Google PageSpeed Insights](https://developers.google.com/speed/docs/insights/v5/get-started) | Website performance and Lighthouse audit scores | `apiKey` | Yes | Yes |
 | [Google Sheets](https://developers.google.com/sheets/api/reference/rest) | API to read, write, and format Google Sheets data | `OAuth` | Yes | Unknown |
 | [Google Slides](https://developers.google.com/slides/api/reference/rest) | API to read, write, and format Google Slides presentations | `OAuth` | Yes | Unknown |
 | [Gorest](https://gorest.co.in/) | Online REST API for Testing and Prototyping | `OAuth` | Yes | Unknown |
@@ -745,6 +746,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Shotanvil](https://shotanvil.com) | Screenshot, PDF and HTML rendering API with a free tier, API key or x402 auth | `apiKey` | Yes | No |
 | [SHOUTCLOUD](http://shoutcloud.io/) | ALL-CAPS AS A SERVICE | No | No | Unknown |
 | [SiteIntel](https://siteintel.duckdns.org) | Extract metadata, tech stack, emails, and screenshots from any URL | `apiKey` | Yes | Unknown |
+| [SnoopScan](https://snoopscan.com/docs) | Scrape, crawl, map and search the web as clean markdown or JSON, with a free monthly tier | `apiKey` | Yes | Unknown |
 | [Sonar](https://github.com/Cgboal/SonarSearch) | Project Sonar DNS Enumeration API | No | Yes | Yes |
 | [SonarQube](https://sonarcloud.io/web_api) | SonarQube REST APIs to detect bugs, code smells & security vulnerabilities | `OAuth` | Yes | Unknown |
 | [StackExchange](https://api.stackexchange.com/) | Q&A forum for developers | `OAuth` | Yes | Unknown |
@@ -757,6 +759,7 @@ API | Description | Auth | HTTPS | CORS |
 | [TinyMind Agent Tools](https://tinymind.eu/api/) | Free APIs by an AI agent on a VPS: actor lookup, word-of-the-day, poems, jokes, ping | No | Yes | Yes |
 | [ToolForte](https://toolforte.com/developers) | Deterministic utilities: IBAN/VAT validation, cron parsing, regex, diffs, Dutch holidays and test data | `apiKey` | Yes | Unknown |
 | [Tyk](https://tyk.io/open-source/) | Api and service management platform | `apiKey` | Yes | Yes |
+| [URLpipe](https://urlpipe.dev/docs) | Turn a URL into Markdown, screenshots, metadata or Lighthouse audits, rendered in real Chrome | `apiKey` | Yes | No |
 | [Utilorax](https://utilorax.com/api) | 203 JSON endpoints: hashing, encoding, unit conversion, text, dates and file conversion | `apiKey` | Yes | Yes |
 | [Wandbox](https://github.com/melpon/wandbox/blob/master/kennel2/API.rst) | Code compiler supporting 35+ languages mentioned at wandbox.org | No | Yes | Unknown |
 | [Web Metadata & Contact Extractor](https://rapidapi.com/josejuanjocoding/api/web-metadata-and-contact-extractor) | Extract SEO metadata, contact emails, social links, and tech stack (<200ms) | `apiKey` | Yes | Yes |
@@ -1254,6 +1257,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Mapbox](https://docs.mapbox.com/) | Create/customize beautiful digital maps | `apiKey` | Yes | Unknown |
 | [MapQuest](https://developer.mapquest.com/) | To access tools and resources to map the world | `apiKey` | Yes | No | Yes
 | [Mexico](https://github.com/IcaliaLabs/sepomex) | Mexico RESTful zip codes API | No | Yes | Unknown |
+| [Moradas](https://moradas.dev/docs) | Portuguese address autocomplete and 7-digit postal codes (CP7) | No | Yes | Yes |
 | [Nominatim](https://nominatim.org/release-docs/latest/api/Overview/) | Provides worldwide forward / reverse geocoding | No | Yes | Yes |
 | [One Map, Singapore](https://www.onemap.gov.sg/docs/) | Singapore Land Authority REST API services for Singapore addresses | `apiKey` | Yes | Unknown |
 | [OnWater](https://onwater.io/) | Determine if a lat/lon is on water or land | No | Yes | Unknown |
@@ -1331,6 +1335,7 @@ API | Description | Auth | HTTPS | CORS |
 | [EU VAT Rates by Commodity Code](https://github.com/humora2504/eu-vat-by-commodity-code) | EU VAT rates mapped to CN and CPA commodity codes, all 27 member states | `No` | Yes | Yes |
 | [FastDOL](https://www.fastdol.com/docs) | Federal enforcement records for US employers: OSHA, WHD, MSHA, EPA, NLRB, and more | `apiKey` | Yes | Yes |
 | [FBI Wanted](https://www.fbi.gov/wanted/api) | Access information on the FBI Wanted program | No | Yes | Unknown |
+| [FDA Import Alert Screening](https://aerviklabs.com/apis/fda-import-alerts/) | Screen firm names against FDA Import Alert Red, Yellow and Green Lists | `apiKey` | Yes | Unknown |
 | [FEC](https://api.open.fec.gov/developers/) | Information on campaign donations in federal elections | `apiKey` | Yes | Unknown |
 | [Federal Register](https://www.federalregister.gov/reader-aids/developer-resources/rest-api) | The Daily Journal of the United States Government | No | Yes | Unknown |
 | [Food Standards Agency](http://ratings.food.gov.uk/open-data/en-GB) | UK food hygiene rating data API | No | No | Unknown |
@@ -1588,6 +1593,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Associated Press](https://developer.ap.org/) | Search for news and metadata from Associated Press | `apiKey` | Yes | Unknown |
 | [Chronicling America](http://chroniclingamerica.loc.gov/about/api/) | Provides access to millions of pages of historic US newspapers from the Library of Congress | No | No | Unknown |
 | [Currents](https://currentsapi.services/) | Real-time and historical global news with multilingual support | `apiKey` | Yes | Yes |
+| [daily.dev](https://docs.daily.dev/public-api/) | Developer news feeds, posts, bookmarks, tags and search from daily.dev | `apiKey` | Yes | No |
 | [DataCube AI](https://www.datacubeai.space/en/tools/ai-news-api) | Daily curated AI industry news, funding rounds and trends in 8 languages | No | Yes | No |
 | [Feedbin](https://github.com/feedbin/feedbin-api) | RSS reader | `OAuth` | Yes | Unknown |
 | [Florida Man](https://github.com/juliayxhuang/florida-man-api#readme) | Static JSON dataset of 10,000+ Florida Man headlines by date | No | Yes | Yes |
